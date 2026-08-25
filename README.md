@@ -1,3 +1,4 @@
+
 🚲 Bicycle Rental Database System
 
 A relational database project designed and implemented for a Bicycle Rental Company, developed as part of the Introduction to Databases course at Marmara University.
@@ -30,7 +31,9 @@ Reservation	Rental transactions between customers and bicycles
 Penalty	Additional charges for rule violations
 Maintain	Maintenance and repair records
 Maintain_Personal	Staff members performing maintenance
+
 🛠️ Database Operations Covered
+
 30 SELECT queries — including JOIN, GROUP BY, HAVING, TOP, EXISTS, IN, LIKE, subqueries, UNION, INTERSECT, EXCEPT, and date functions
 5 INSERT statements — adding new records
 5 UPDATE statements — modifying existing data
@@ -41,21 +44,23 @@ Maintain_Personal	Staff members performing maintenance
 10 CREATE VIEW statements — active rentals, VIP customers, daily income analysis, expiring insurances, and more
 
 📁 Repository Structure
+
 bicycle-rental-database-system/
 ├── README.md
 ├── Phase1_Project_Report.pdf   # System description, requirements, ER diagram, data dictionary
 └── Phase2_SQL_Queries.pdf      # SQL queries, DML/DDL operations, indexes, views (with query results)
+
 🧩 Entity Relationship Diagram
 
 The full ER diagram, including entity relationships and cardinalities (1-1, 1-*), is available in Phase1_Project_Report.pdf.
 
 👥 Team Members
+
 Name	Student 
 Sevinç ÇAKAR	
 Eylül ÇİMEN	
 Nehir KARASAKAL	
 Yasin SÜLEYMANOĞLU	
-
 Instructor: Assoc. Prof. Selçuk KIRAN
 
 🎓 Course
@@ -63,4 +68,6 @@ Instructor: Assoc. Prof. Selçuk KIRAN
 Introduction to Databases — Marmara University
 
 ⚙️ Technology
+
 Microsoft SQL Server (MSSQL / SSMS)
+
